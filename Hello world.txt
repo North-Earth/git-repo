@@ -1,2 +1,3 @@
 Hello world!!!
+Hello my dear friend.
 It's my git project.
